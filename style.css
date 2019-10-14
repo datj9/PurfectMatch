@@ -1,0 +1,16 @@
+body{
+    background-image: url("../photos/photo-1415369629372-26f2fe60c467.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    
+}
+#textContent{
+    padding-top: 25%;
+    text-align: center;
+}
+
+hr{
+    width: 420px;
+    background-color: white;
+}
